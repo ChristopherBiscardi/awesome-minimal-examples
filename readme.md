@@ -11,6 +11,7 @@
 The smallest working examples.
 
 - [Netlify Functions in JS](https://github.com/ChristopherBiscardi/smallest-netlify-function-example)
+- [Netlify Functions in JS with Bundled Dependencies](https://github.com/johnlindquist/netlify-function-template)
 
 ## Contribute
 
