@@ -2,33 +2,19 @@
 
 > A curated list of awesome bare-minimum working examples
 
-
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Minimal Examples](#minimal-examples)
 
+## Minimal Examples
 
-## Section
+The smallest working examples.
 
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Netlify Functions in JS](https://github.com/ChristopherBiscardi/smallest-netlify-function-example)
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
