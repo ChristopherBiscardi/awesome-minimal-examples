@@ -11,6 +11,7 @@
 The smallest working examples.
 
 - [Netlify Functions in JS](https://github.com/ChristopherBiscardi/smallest-netlify-function-example)
+- [Gatsby](https://github.com/trevorblades/minimal-gatsby-example)
 
 ## Contribute
 
